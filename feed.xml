@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cocoaing</title>
-    <description>
-A weekly cocoa development digest about iOS and OS X, from developer, for developer.
-</description>
+    <description>Drinking hot cocoa among developers, A weekly cocoa development digest about iOS and OS X development, from developer for developer.</description>
     <link>http://cocoaing.com/</link>
     <atom:link href="http://cocoaing.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Feb 2015 15:36:49 +0800</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2015 15:36:49 +0800</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Thu, 31 Dec 2015 17:31:46 +0800</pubDate>
+    <lastBuildDate>Thu, 31 Dec 2015 17:31:46 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
     
       <item>
-        <title>#1 Welcome to Cocoaing, Convert to Swift 1.2</title>
+        <title>Welcome to Cocoaing, Convert to Swift 1.2</title>
         <description>&lt;p&gt;忙碌的一週，我的Macbook Pro無法啓動OS X, 在更換了SSD和硬盤數據線後，安裝了系統，終於可以使用，因爲磁盤容量變小了，我就沒有用Time Machine恢復。所以軟件都需要重新安裝。&lt;/p&gt;
 
-&lt;p&gt;本週，蘋果發佈了 Swift 1.2 and Xcode 6.3 beta 
-Swift 1.2 and Xcode 6.3在語言和工具上都做了改進，同時舊的代碼可能會報錯，Xcode在  Edit -&amp;gt; Convert -&amp;gt; To Swift 1.2 
-&lt;a href=&quot;https://developer.apple.com/swift/blog/?id=22&quot;&gt;Swift Blog&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;本週，蘋果發佈了 Swift 1.2 and Xcode 6.3 beta Swift 1.2 and Xcode 6.3在語言和工具上都做了改進，同時舊的代碼可能會報錯，Xcode在 Edit -&amp;gt; Convert -&amp;gt; To Swift 1.2 &lt;a href=&quot;https://developer.apple.com/swift/blog/?id=22&quot;&gt;Swift Blog&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 Feb 2015 23:14:52 +0800</pubDate>
-        <link>http://cocoaing.com/jekyll/update/2015/02/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://cocoaing.com/jekyll/update/2015/02/12/welcome-to-jekyll.html</guid>
+        <pubDate>Thu, 12 Feb 2015 12:03:06 +0800</pubDate>
+        <link>http://cocoaing.com/swift/2015/02/12/welcome-to-cocoaing.html</link>
+        <guid isPermaLink="true">http://cocoaing.com/swift/2015/02/12/welcome-to-cocoaing.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>Swift</category>
         
       </item>
     
